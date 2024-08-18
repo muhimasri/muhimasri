@@ -1,4 +1,4 @@
-# Hi there I'm Muhi Masri👋
+# Hi there, I'm Muhi Masri👋
 Front-end engineer, consultant, and educator. My main focus is on architecture and React, but I also have strong knowledge of Angular, Vue, Svelte, and Web Components. I am passionate about creating component libraries and helping others grow in their coding journey.
 
 ## 📊 GitHub Stats
