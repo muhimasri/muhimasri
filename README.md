@@ -1,5 +1,5 @@
 # Hi there, I'm Muhi Masri👋
-Front-end engineer, consultant, and educator. My main focus is on architecture and React, but I also have strong knowledge of Angular, Vue, Svelte, and Web Components. I am passionate about creating component libraries and helping others grow in their coding journey.
+Front-end engineer, architect, and educator. My main focus is on React, but I also acquired strong knowledge in Angular, Vue, Svelte, and Web Components. I am passionate about building component libraries and helping others grow in their coding journey.
 
 ## 📊 GitHub Stats
 ![Muhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhimasri&show_icons=true&theme=radical)
